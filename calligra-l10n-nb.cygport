@@ -2,7 +2,7 @@ inherit kde4
 
 NAME="calligra-l10n-nb"
 VERSION=2.9.11
-RELEASE=1
+RELEASE=2
 CATEGORY="KDE"
 SUMMARY="Calligra Suite Bokmål, Norwegian; Norwegian Bokmål translation files"
 DESCRIPTION="Calligra Suite Bokmål, Norwegian; Norwegian Bokmål translation files"
